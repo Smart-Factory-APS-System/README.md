@@ -1,7 +1,7 @@
 ![1](https://user-images.githubusercontent.com/86215668/146786108-f3962b49-84e0-4c73-a839-d92d8c0ca284.png)  
   
   
-------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------  
 # Smart_Factory_APS_System  
 Use machine learning techniques to predict sales and automatize production and shipping process at a factory  
   
@@ -11,7 +11,7 @@ Use machine learning techniques to predict sales and automatize production and s
   
   
 APS System 발주자동화 시스템 구축  
-------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------  
   
   
   
